@@ -1,0 +1,2 @@
+# dumbdiscordbot
+scrub discord bot
